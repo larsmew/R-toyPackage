@@ -1,0 +1,14 @@
+Package: toyPackage
+Title: Stores Data Associated with Settings Nutient Level
+Version: 0.1.0
+Authors@R: person("Lars", "Andersen", email = "larsmew@gmail.com", role = c("aut", "cre"))
+Description: Documents how I assemble data for a new meta-analysis and review
+Depends:
+    R (>= 3.3.1)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
