@@ -1,5 +1,3 @@
-setwd("~/Desktop/SISBID/Exercises/Module3/1.toyRPackage/toyPackage/")
-
 library(devtools)
 library(roxygen2)
 library(knitr)
